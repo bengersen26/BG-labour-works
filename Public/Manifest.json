@@ -1,0 +1,11 @@
+{
+  "name": "BG Labourworks",
+  "short_name": "BG Labour",
+  "description": "Direct hire for self-employed construction workers. No agency fees.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#171713",
+  "theme_color": "#171713",
+  "icons": []
+}
